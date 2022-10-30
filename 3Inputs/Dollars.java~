@@ -1,0 +1,17 @@
+// Caroline Hsu - 10/01/20
+/* This program calculates and displays the conversion of dollars into
+currency denominations of 20, 10, 5, and 1 */
+
+// Step 1: import scanner from API
+import java.util.Scanner;
+public class Dollars
+{
+	public static void main(String[] args)
+	{
+		// Step 2: Declare a variable of type Scanner and declare variables
+		Scanner input = new Scanner(System.in);
+		int dollar
+		int 
+		
+	}
+}
